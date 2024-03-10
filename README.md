@@ -4,6 +4,10 @@
 Members:
 Daniel Kim, Trisha Sanghal, Zachary Fenton
 ---
+<ins>DATASET:</ins>
+- [PTB_XL](https://physionet.org/content/ptb-xl/1.0.3/)
+<ins>Articles:</ins>
+- [PTB-XL, a large publicly available electrocardiography dataset](https://www.nature.com/articles/s41597-020-0495-6#citeas)
 
 __Final Project__
 
