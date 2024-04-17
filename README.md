@@ -1,5 +1,5 @@
-# UCBMIDS_W207_finalProject
-
+# UCBMIDS_W207_finalProject<br>
+## ECG Diagnostic Tool: A Machine Learning Approach<br>
 
 Members:
 Daniel Kim, Trisha Sanghal, Zachary Fenton
@@ -9,7 +9,21 @@ Daniel Kim, Trisha Sanghal, Zachary Fenton
 
 <ins>Articles:</ins>
 - [PTB-XL, a large publicly available electrocardiography dataset](https://www.nature.com/articles/s41597-020-0495-6#citeas)
+- [Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL](https://arxiv.org/pdf/2004.13701.pdf)
+---
+__Links to code__:
+Trisha's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/trisha-branch/ekg_classification.ipynb)
+Daniel's Notebooks(s): 
+  - [Branch Page](https://github.com/zfenton/UCBMIDS_W207_finalProject/tree/daniel_branch)
+    - [Hyperparameter optimization](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/daniel_branch/hp_tuning.ipynb)
+    - [Metadata Encoding](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/daniel_branch/metadata_encoding_and_parameter_optimization.ipynb)
+Zach's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/zach_branch/ekg_test.ipynb)
 
+### Project Contributions:
+
+||Daniel|Trisha|Zach|
+|----|------|------|----|
+|Code|Hyperparameter<br> optimization|Data preprocessing\nbaseline modeling|Data Loading\nInitial Model|
 __Final Project__
 
 _The goal of the project is to perform an end to end dataset analysis (data cleaning, model training, hyperparameter selection, model evaluation).</br>
