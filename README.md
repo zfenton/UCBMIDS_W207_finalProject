@@ -11,7 +11,7 @@ Daniel Kim, Trisha Sanghal, Zachary Fenton
 - [PTB-XL, a large publicly available electrocardiography dataset](https://www.nature.com/articles/s41597-020-0495-6#citeas)
 - [Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL](https://arxiv.org/pdf/2004.13701.pdf)
 ---
-__Important Links__:<br>
+<ins>__Important Links__:</ins><br>
 After development of initial model, each member developed separate workflows utilizing Jupyter Notebooks. This allowed optimization of model quickly and effieciently with each member focused on separate portions of ML model development. These sections are identified in the below table and members notebooks are linked below. 
 
 Trisha's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/trisha-branch/ekg_classification.ipynb)<br>
