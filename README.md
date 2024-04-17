@@ -1,5 +1,5 @@
 # ECG Diagnostic Tool: A Machine Learning Approach<br>
-## UCBMIDS_W207_finalProject<br>
+## UCB MIDS W207 Section: 005<br>
 
 Members:
 Daniel Kim, Trisha Sanghal, Zachary Fenton
