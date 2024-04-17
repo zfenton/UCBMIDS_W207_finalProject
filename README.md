@@ -27,7 +27,8 @@ Zach's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/
 |Slides/Presentation|Experiments Conclusion|Preprocessing<br>Modeling|Motivation<br>Data|
 |Research|Hyperparameter Optimization Automation<br>ECG reading studies|Supervised vs<br>Unsupervised models|ECG research|
 
-- All members contributed to NeurIPS verification with equal effort. 
+- All members contributed to NeurIPS verification with equal effort.
+---
 
 __Final Project__
 
