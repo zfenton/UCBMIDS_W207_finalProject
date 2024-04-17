@@ -33,7 +33,7 @@ Zach's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/
 
 - All members contributed to NeurIPS verification with equal effort.
 ---
-
+_Project Description from Syllabus_ <br>
 __Final Project__
 
 _The goal of the project is to perform an end to end dataset analysis (data cleaning, model training, hyperparameter selection, model evaluation).</br>
