@@ -1,5 +1,5 @@
-# UCBMIDS_W207_finalProject<br>
-## ECG Diagnostic Tool: A Machine Learning Approach<br>
+# ECG Diagnostic Tool: A Machine Learning Approach<br>
+## UCBMIDS_W207_finalProject<br>
 
 Members:
 Daniel Kim, Trisha Sanghal, Zachary Fenton
@@ -13,10 +13,12 @@ Daniel Kim, Trisha Sanghal, Zachary Fenton
 ---
 __Links to code__:
 Trisha's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/trisha-branch/ekg_classification.ipynb)<br>
+
 Daniel's Notebooks(s):
   - [Branch Page](https://github.com/zfenton/UCBMIDS_W207_finalProject/tree/daniel_branch)
     - [Hyperparameter optimization](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/daniel_branch/hp_tuning.ipynb)
     - [Metadata Encoding](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/daniel_branch/metadata_encoding_and_parameter_optimization.ipynb)<br>
+    
 Zach's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/zach_branch/ekg_test.ipynb)
 
 ### Project Contributions:
