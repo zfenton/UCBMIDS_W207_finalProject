@@ -11,7 +11,7 @@ Daniel Kim, Trisha Sanghal, Zachary Fenton
 - [PTB-XL, a large publicly available electrocardiography dataset](https://www.nature.com/articles/s41597-020-0495-6#citeas)
 - [Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL](https://arxiv.org/pdf/2004.13701.pdf)
 ---
-__Links to code__:
+__Links to code__:<br>
 Trisha's Notebook(s): [Link](https://github.com/zfenton/UCBMIDS_W207_finalProject/blob/trisha-branch/ekg_classification.ipynb)<br>
 
 Daniel's Notebooks(s):
